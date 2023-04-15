@@ -7,5 +7,5 @@ In this code assignment, you are asked to develop a Python program to retrieve d
 ## Deliverables
 
 * Python scripts used to download and process the data
-* CSV files with at least 30 records you collected. Your CSV must have at least three columns that complement or include other data you collected.
+* CSV file(s) with at least 30 records you collected. Your CSV must have at least three columns with the information you collected.
 
